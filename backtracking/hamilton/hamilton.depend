@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1590332398 source:c:\users\julia laptop\desktop\hamilton\main.c
+	<assert.h>
+	<limits.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"adjacency_matrix.h"
+	"instance_generator.h"
+
+1589199589 c:\users\julia laptop\desktop\hamilton\adjacency_matrix.h
+	<stdbool.h>
+
+1589199589 c:\users\julia laptop\desktop\hamilton\instance_generator.h
+	<assert.h>
+	<stdbool.h>
+	<stdlib.h>
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1590141948 source:c:\users\julia laptop\desktop\euler\main.c
+	<assert.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"adjacency_matrix.h"
+	"instance_generator.h"
+	"stack.h"
+	"fleury.h"
+	"hierholzer.h"
+
+1589199589 c:\users\julia laptop\desktop\euler\adjacency_matrix.h
+	<stdbool.h>
+
+1589199589 c:\users\julia laptop\desktop\euler\instance_generator.h
+	<assert.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1589199589 c:\users\julia laptop\desktop\euler\stack.h
+
+1590333226 c:\users\julia laptop\desktop\euler\fleury.h
+
+1590333488 c:\users\julia laptop\desktop\euler\hierholzer.h
+
